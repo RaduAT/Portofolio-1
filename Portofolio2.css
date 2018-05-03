@@ -86,7 +86,7 @@ main {
 
 }
 
-#firsaid{
+#firstaid{
       background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq9oUun9uWJUWWVra44sEE0wd-qy7d1yYODiNvT41BgAJ96E7JVg);
       background-position: center;
       background-size: cover;
@@ -94,7 +94,7 @@ main {
 }
 
 #erasmus{
-  background: url(http://filosofie.unibuc.ro/wp-content/uploads/Erasmus-map-Copy.jpg);
+
   background-position: left;
   background-size: cover;
   /*Shadow generated from an online generator */
@@ -108,11 +108,12 @@ main {
    border: 2px solid #000000;
 
 
+
 }
 
 #languages{
 
-  background: url(https://images.pexels.com/photos/132340/pexels-photo-132340.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+
   background-position: center;
   background-size: cover;
   /*Shadow generated from an online generator */
@@ -125,10 +126,12 @@ main {
   -webkit-border-radius: 26px 26px 26px 26px;
    border: 2px solid #000000;
 
+
+
 }
 
 #google{
-       background: url(https://pbs.twimg.com/media/DNa6DOgV4AAl1kT.jpg);
+
        background-position: center;
        background-size: cover;
        /*Shadow generated from an online generator */
@@ -140,6 +143,7 @@ main {
        -moz-border-radius: 26px 26px 26px 26px;
        -webkit-border-radius: 26px 26px 26px 26px;
         border: 2px solid #000000;
+
 }
 
 
@@ -170,10 +174,14 @@ p {
 #up{
     font-family: "Secular One";
     font-size: 25px;
-     color: white;
+    color: white;
 
 }
 
+#about{
+     font-size:60px;
+     text-align:center;
+}
 /* MARKETING CONTENT
 -------------------------------------------------- */
 
